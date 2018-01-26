@@ -1,0 +1,16 @@
+{
+  "name": "cordova-dialog-gps",
+  "version": "1.0.0",
+  "description": "cordova-dialog-gps",
+  "cordova": {
+    "id": "cordova-dialog-gps",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigo-martinezd/cordova-dialog-gps.git"
+  },
+  "author": "Good People"
+}
